@@ -1,0 +1,10 @@
+.chart {
+    display: block; /* Hidden by default */
+    
+    position: absolute; /* Stay in place */
+    width:65%;
+    top:10%;
+    left:5%;
+    color:white
+
+}
